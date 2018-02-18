@@ -1,0 +1,24 @@
+{
+  "name": "ribcage_swankjs",
+  "version": "1.0.0",
+  "description": "swank-js plugin for ribcage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leshy/ribcage_swankjs.git"
+  },
+  "dependencies": {
+    "backbone4000": "git+ssh://git@github.com/leshy/backbone4000.git",
+    "swank-js": "git+ssh://git@github.com/leshy/swank-js.git",
+    "leshdash": "git+ssh://git@github.com/leshy/leshdash.git"
+  },
+  "author": "lesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leshy/ribcage_db/issues"
+  },
+  "homepage": "https://github.com/leshy/ribcage_db"
+}
